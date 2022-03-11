@@ -923,10 +923,10 @@
     "@babel/helper-validator-identifier" "^7.16.7"
     to-fast-properties "^2.0.0"
 
-"@cortezaproject/corteza-js@^2021.9.6":
-  version "2021.9.6"
-  resolved "https://registry.yarnpkg.com/@cortezaproject/corteza-js/-/corteza-js-2021.9.6.tgz#bb6381cf803684c5f87e24c06c99ee5a3432c5cb"
-  integrity sha512-pejPrlTbHRzzOn7azVet8+PlQQzBuwUZIJThmikmbS9Ma4uV5f3UWIcbA4ymVVRY/3hoiBT8M8pxD/l+ITF6aQ==
+"@cortezaproject/corteza-js@^2021.9.7":
+  version "2021.9.8"
+  resolved "https://registry.yarnpkg.com/@cortezaproject/corteza-js/-/corteza-js-2021.9.8.tgz#a14468b626706eda6167b1a776b7996a50f26aa8"
+  integrity sha512-z44llF4OGv5t2w0KDY+Akrlzk96yrMuJzNdCMzdW/L4kAOq3ny8jKMfeF4ObruGu99kzS8jryl1aCloxbagkmA==
   dependencies:
     axios "^0.21.1"
     chart.js "2.9.3"
